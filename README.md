@@ -36,29 +36,16 @@
     <img title="Jenkins" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/diploma_2/33680cf1661777f81c577c96b7182861.gif" />
 </p>
 
-<h4><a name='projectStack'>📖Стек проекта:</a></h4>
-<p align="center">
-    <a href="#"><img title="Java" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/java.svg" width="30px"/></a>
-    <a href="#"><img title="Gradle" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/Gradle.svg" width="50px"/></a>
-    <a href="#"><img title="JUnit5" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/JUnit5.svg" width="50px"/></a>
-    <a href="#"><img title="Selenide" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/Selenide.svg" width="50px"/></a>
-    <a href="#"><img title="RestAssured" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/Rest-Assured.svg" width="50px"/></a>
-    <a href="#"><img title="Allure_Report" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/Allure_Report.svg" width="50px"/></a>
-    <a href="#"><img title="Jenkins" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/Jenkins.svg" width="50px"/></a>
-    <a href="#"><img title="Selenoid" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/Selenoid.svg" width="50px"/></a>
-    <a href="#"><img title="Allure Test Ops" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/AllureTestOps.svg" width="50px"/></a>
-</p>
-
 <h4>📖Особенности проекта</h4>
 <ul>
-	<li>:heavy_check_mark:Совмещение UI и API проверок в одном тесте</li>
-	<li>:heavy_check_mark:Использование паттерна PageObject</li>
-	<li>:heavy_check_mark:Owner для конфигурации проекта</li>
-	<li>:heavy_check_mark:Кастомные отчеты в Allure для API запросов</li>
-	<li>:heavy_check_mark:Авторизация через АПИ</li>
-	<li>:heavy_check_mark:Уведомления о прохождении тестов в телеграм</li>
-	<li>:heavy_check_mark:Интеграция с Allure Test Ops</li>
-	<li>:heavy_check_mark:Интеграция с Jira</li>
+	<li>Совмещение UI и API проверок в одном тесте</li>
+	<li>Использование паттерна PageObject</li>
+	<li>Owner для конфигурации проекта</li>
+	<li>Кастомные отчеты в Allure для API запросов</li>
+	<li>Авторизация через АПИ</li>
+	<li>Уведомления о прохождении тестов в телеграм</li>
+	<li>Интеграция с Allure Test Ops</li>
+	<li>Интеграция с Jira</li>
 </ul>
 
 ---
