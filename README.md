@@ -28,38 +28,6 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=OksanaLevi&color=003140">
 
 <h2>Примеры работ:</h2>
-<h3>Тесты для **** </h3>
-<p>В <a href='https://github.com/NikitaDanshin415/PikabuTests'>проекте</a> релаизованы тесты для проверки клиентской части приложения</p>
-
-<p align="center">
-    <img title="Jenkins" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/diploma_1/pikabu.gif" />
-</p>
-
-<h4><a name='projectStack'>:cookie:Стек проекта:</a></h4>
-
-<p align="center">
-    <a href="#"><img title="Java" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/java.svg" width="30px"/></a>
-    <a href="#"><img title="Gradle" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/Gradle.svg" width="50px"/></a>
-    <a href="#"><img title="JUnit5" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/JUnit5.svg" width="50px"/></a>
-    <a href="#"><img title="Selenide" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/Selenide.svg" width="50px"/></a>
-    <a href="#"><img title="Allure_Report" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/Allure_Report.svg" width="50px"/></a>
-    <a href="#"><img title="Jenkins" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/Jenkins.svg" width="50px"/></a>
-    <a href="#"><img title="Selenoid" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/Selenoid.svg" width="50px"/></a>
-    <a href="#"><img title="Allure Test Ops" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/AllureTestOps.svg" width="50px"/></a>
-</p>
-
-<h4>:cookie:Особенности проекта</h4>
-<ul>
-	<li>:heavy_check_mark:Использование паттерна PageObject</li>
-	<li>:heavy_check_mark:Разделение тестов на группы для смок и регрессионного тестирования</li>
-	<li>:heavy_check_mark:Owner для конфигурации проекта</li>
-	<li>:heavy_check_mark:Уведомления о прохождении тестов в телеграм</li>
-	<li>:heavy_check_mark:Интеграция с Allure Test Ops</li>
-	<li>:heavy_check_mark:Интеграция с Jira</li>
-</ul>
-
----
-
 <h3>Тесты для https://demoqa.com/books</h3>
 <p>В <a href='https://github.com/NikitaDanshin415/BookStore'>проекте</a> релаизованы API и UI тесты</p>
 
@@ -94,35 +62,6 @@
 
 ---
 
-<h3>Тесты для приложения калькулятор</h3>
-<p>В <a href='https://github.com/NikitaDanshin415/CalculatorMobile'>проекте</a> релаизованы  UI тесты для мобильного устройства</p>
+<h3>Тесты для ...</h3>
 
-<p align="center">
-    <img title="Jenkins" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/diploma_3/848868182d66d878701aee934ac4072af6abec91.gif" />
-</p>
-
-<h4><a name='projectStack'>:iphone:Стек проекта:</a></h4>
-<p align="center">
-    <a href="#"><img title="Java" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/java.svg" width="30px"/></a>
-    <a href="#"><img title="Gradle" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/Gradle.svg" width="50px"/></a>
-    <a href="#"><img title="JUnit5" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/JUnit5.svg" width="50px"/></a>
-    <a href="#"><img title="Selenide" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/Selenide.svg" width="50px"/></a>
-    <a href="#"><img title="RestAssured" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/Rest-Assured.svg" width="50px"/></a>
-    <a href="#"><img title="Allure_Report" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/Allure_Report.svg" width="50px"/></a>
-    <a href="#"><img title="Jenkins" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/Jenkins.svg" width="50px"/></a>
-    <a href="#"><img title="Allure Test Ops" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/AllureTestOps.svg" width="50px"/></a>
-    <a href="#"><img title="Allure Test Ops" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/Browserstack.svg" width="50px"/></a>
-    <a href="#"><img title="Allure Test Ops" src="https://github.com/NikitaDanshin415/NikitaDanshin415/blob/main/logo/Appium.svg" width="50px"/></a>
-</p>
-
-<h4>:iphone:Особенности проекта</h4>
-<ul>
-	<li>:heavy_check_mark:Использование библиотеки Selenide-Appium</li>
-	<li>:heavy_check_mark:Параметризованные тесты</li>
-	<li>:heavy_check_mark:Запуск тестов с помощью Browserstack</li>
-	<li>:heavy_check_mark:Owner для конфигурации проекта</li>
-	<li>:heavy_check_mark:Уведомления о прохождении тестов в телеграм</li>
-	<li>:heavy_check_mark:Интеграция с Allure Test Ops</li>
-	<li>:heavy_check_mark:Интеграция с Jira</li>
-</ul>
 
