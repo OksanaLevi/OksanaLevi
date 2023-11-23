@@ -29,7 +29,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=OksanaLevi&color=003140">
 
 <h2>Примеры работ:</h2>
-<h3>Тесты для https://demoqa.com/books</h3>
+<h3>Тесты для [сайта "Мир квестов"(https://mir-kvestov.ru)]/</h3>
 <p>В <a href='https://github.com/NikitaDanshin415/BookStore'>проекте</a> релаизованы API и UI тесты</p>
 
 <p align="center">
