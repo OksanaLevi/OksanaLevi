@@ -4,19 +4,16 @@
 
 <h3 align="center">Мой стек технологий</h3>
 <p align="center">
-	<a href="#"><img title="Java" src="logo/java.svg" width="30px"/></a>
-	<a href="#"><img title="Gradle" src="logo/Gradle.svg" width="50px"/></a>
-	<a href="#"><img title="JUnit5" src="logo/JUnit5.svg" width="50px"/></a>
-	<a href="#"><img title="Selenide" src="logo/Selenide.svg" width="50px"/></a>
-    <a href="#"><img title="Selenoid" src="logo/Selenoid.svg" width="50px"/></a>
-    <a href="#"><img title="Jenkins" src="logo/Jenkins.svg" width="50px"/></a>
-	<a href="#"><img title="Rest-Assured" src="logo/Rest-Assured.svg" width="50px"/></a>
-	<a href="#"><img title="Allure_Report" src="logo/Allure_Report.svg" width="50px"/></a>
-    <a href="#"><img title="Allure Test Ops" src="logo/AllureTestOps.svg" width="50px"/></a>
-    <a href="#"><img title="InteliJ IDEA" src="logo/Intelij_IDEA.svg" width="50px"/></a>
-    <a href="#"><img title="Jira" src="logo/Jira.svg" width="50px"/></a>
-    <a href="#"><img title="Telegram" src="logo/Telegram.svg" width="50px"/></a>
-	
+	<a href="https://www.java.com/""><img title="Java" src="https://github.com/OksanaLevi/OksanaLevi/blob/main/logo/java.svg" width="30px href='https://mir-kvestov.ru'"/></a>
+	<a href="https://gradle.org/"><img title="Gradle" src="https://github.com/OksanaLevi/OksanaLevi/blob/main/logo/Gradle.svg" width="50px"/></a>
+	<a href="https://junit.org/junit5/"><img title="JUnit5" src="https://github.com/OksanaLevi/OksanaLevi/blob/main/logo/JUnit5.svg" width="50px"/></a>
+	<a href="https://selenide.org/"><img title="Selenide" src="https://github.com/OksanaLevi/OksanaLevi/blob/main/logo/Selenide.svg" width="50px"/></a>
+	<a href="https://github.com/allure-framework"><img title="Allure_Report" src="https://github.com/OksanaLevi/OksanaLevi/blob/main/logo/Allure_Report.svg" width="50px"/></a>
+	<a href="https://www.jenkins.io/"><img title="Jenkins" src="https://github.com/OksanaLevi/OksanaLevi/blob/main/logo/Jenkins.svg" width="50px"/></a>
+	<a href="https://aerokube.com/selenoid/"><img title="Selenoid" src="https://github.com/OksanaLevi/OksanaLevi/blob/main/logo/Selenoid.svg" width="50px"/></a>
+	<a href="https://qameta.io/"><img title="Allure Test Ops" src="https://github.com/OksanaLevi/OksanaLevi/blob/main/logo/AllureTestOps.svg" width="50px"/></a>
+	<a href="https://www.atlassian.com/ru/software/jira"><img title="Jira" src="https://github.com/OksanaLevi/OksanaLevi/blob/main/logo/Jira.svg" width="50px"/></a>
+	<a href="https://web.telegram.org/"><img title="Telegram" src="https://github.com/OksanaLevi/OksanaLevi/blob/main/logo/Telegram.svg" width="50px"/></a>	
 </p>
 
 
