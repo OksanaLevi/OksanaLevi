@@ -17,7 +17,7 @@
 </p>
 
 
-###  Активность в GitHub
+<h2>Активность в GitHub</h2>
 
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=OksanaLevi"/></a>
 <a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OksanaLevi&theme=nord_bright"/></a>
