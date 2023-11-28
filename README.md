@@ -17,15 +17,13 @@
 </p>
 
 
-### Работа
-
-<p>C февраля 2020 года работаю инженером по функциональному тестированию в Банке</p>
+###  Активность в GitHub
 
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=OksanaLevi"/></a>
 <a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OksanaLevi&theme=nord_bright"/></a>
 <img align="right" src="https://komarev.com/ghpvc/?username=OksanaLevi&color=003140">
 
-<h2>Примеры работ:</h2>
+<h2>Примеры работ по автоматизации тестирования</h2>
 <h3>Тесты для <a href='https://mir-kvestov.ru'>сайта "Мир квестов"</a></h3>
 <p>В <a href='https://github.com/OksanaLevi/Autotests-for-the-MirKvestov-website'>проекте</a> релаизованы UI-тесты</p>
 
