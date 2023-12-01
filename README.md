@@ -25,7 +25,7 @@
 
 <h2>Примеры работ по автоматизации тестирования</h2>
 <h3>Тесты для <a href='https://mir-kvestov.ru'>сайта "Мир квестов"</a></h3>
-<p>В <a href='https://github.com/OksanaLevi/Autotests-for-the-MirKvestov-website'>проекте</a> релаизованы UI-тесты</p>
+<p>В <a href='https://github.com/OksanaLevi/Autotests-for-the-MirKvestov-website'>проекте</a> реализованы UI-тесты</p>
 
 <h4>🛠⚙️Особенности проекта</h4>
 <ul>
@@ -40,7 +40,7 @@
 ---
 
 <h3>Тесты для <a href='https://restful-booker.herokuapp.com/apidoc/'>сайта бронирования номеров</a></h3>
-<p>В <a href='https://github.com/OksanaLevi/Autotests-for-the-Restful-Booker-website'>проекте</a> релаизованы  API-тесты</p>
+<p>В <a href='https://github.com/OksanaLevi/Autotests-for-the-Restful-Booker-website'>проекте</a> реализованы  API-тесты</p>
 
 <h4>🛠⚙️Особенности проекта</h4>
 <ul>
