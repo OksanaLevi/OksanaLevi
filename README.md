@@ -31,10 +31,10 @@
 <ul>
 	<li>Использование паттерна PageObject</li>
 	<li>Запуск тестов в Jenkins</li>
-	<li>Кастомные отчеты в Allure Report</li>
-	<li>Уведомления о прохождении тестов в Telegram</li>
+	<li>Отчеты в Allure Report</li>
 	<li>Интеграция с Allure Test Ops</li>
 	<li>Интеграция с Jira</li>
+	<li>Уведомления о прохождении тестов в Telegram</li>
 </ul>
 
 ---
