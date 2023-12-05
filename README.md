@@ -40,7 +40,7 @@
 
 ---
 
-<h3>Тесты для <a href='https://restful-booker.herokuapp.com/apidoc/'>сайта бронирования номеров</a></h3>
+<h3>Тесты для <a href='https://restful-booker.herokuapp.com/apidoc/'>API бронирования номеров</a></h3>
 <p>В <a href='https://github.com/OksanaLevi/Autotests-for-the-Restful-Booker-website'>проекте</a> реализованы  API-тесты</p>
 
 <h4>🛠⚙️Особенности проекта</h4>
